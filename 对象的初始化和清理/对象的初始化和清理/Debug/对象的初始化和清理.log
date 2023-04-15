@@ -1,0 +1,4 @@
+﻿  practice.cpp
+D:\C++代码\对象的初始化和清理\对象的初始化和清理\all.h(12,1): warning C4005: “OVERFLOW”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\ucrt\corecrt_math.h(971,1): message : 参见“OVERFLOW”的前一个定义
+  对象的初始化和清理.vcxproj -> D:\C++代码\对象的初始化和清理\Debug\对象的初始化和清理.exe
